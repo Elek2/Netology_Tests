@@ -33,5 +33,5 @@ def test_wrong():
 	assert res.status_code == 200
 
 
-if __name__ == '__main__':
-	create_folder('112')
+# if __name__ == '__main__':
+# 	create_folder('112')
